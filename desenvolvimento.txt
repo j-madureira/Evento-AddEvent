@@ -1,0 +1,4 @@
+-Crie um HTML
+-Crie um H1
+-Crie um script para mudar o H1 com ADDEVENTLISTENER assim que
+carregar a página
